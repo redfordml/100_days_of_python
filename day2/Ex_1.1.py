@@ -7,13 +7,13 @@ two_digit_number = input("Type a two digit number: ")
 #Warning. Do not change the code on lines 1-3. Your program should work for different inputs. e.g. any two-digit number.
 
 
-integer_swap = str (two_digit_number)
+
+print (type(two_digit_number))
+
+num1 = (two_digit_number[0])
+num2 = (two_digit_number [1])
+
+print ( int(num1) + int (num2) )
 
 
-#print (type(integer_swap))
-
-num1 = int (integer_swap [0])
-num2 = int (integer_swap [1])
-
-print ( num1 + num2 )
 
