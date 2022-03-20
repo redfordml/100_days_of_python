@@ -1,3 +1,3 @@
 ## Day 2
 
-today i learnt about....
+Today i learnt about data types as Integers, Floats and Booleans
