@@ -16,5 +16,6 @@ I did some mini projects like:
 
 * Input numbers and separate them, then sum those digits
 * BMI calculator
+* Calculate time remaining in days, weeks and months using F string
 
 More info [here](Day2/day2.md)
