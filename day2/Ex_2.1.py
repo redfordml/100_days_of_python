@@ -7,8 +7,6 @@ four_digit_number = input("Type a two digit number: ")
 #Warning. Do not change the code on lines 1-3. Your program should work for different inputs. e.g. any four-digit number.
 
 
-
-
 print (type(four_digit_number))
 
 num1 = (four_digit_number [0])
