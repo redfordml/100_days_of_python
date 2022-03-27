@@ -14,6 +14,6 @@ num2 = (four_digit_number [1])
 num3 = (four_digit_number [2])
 num4 = (four_digit_number [3])
 
-print ( int(num1) + int (num2) + int (num3) + int (num4) )
+print ( int(num1) + int(num2) + int(num3) + int(num4) )
 
 
