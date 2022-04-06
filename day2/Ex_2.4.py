@@ -14,7 +14,7 @@ bill = (input("Welcome to the tip calculator! \n \nWhat was the total bill?\n\n"
 
 tip = (input("How much tip would you like to give? 10, 12, or 15?\n \n"))
 
-people = int(input ("How many people to split the bill?\n \n"))
+people = (input ("How many people to split the bill?\n \n"))
 
 total = (float(bill) / int(people)) * (float(tip)/ 100 +1)
 
